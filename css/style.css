@@ -941,7 +941,7 @@ a:focus {
 .testimonial-block p {
   background: transparent;
   font-size: 18px;
-  border: 1px solid rgb(125, 214, 255);
+/*  border: 1px solid rgb(125, 214, 255);*/
 }
 
 .testimonial-block .client-info {
